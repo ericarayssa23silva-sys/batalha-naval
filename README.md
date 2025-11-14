@@ -18,8 +18,8 @@ Validação de limites
 Organização e documentação de código
 
 -------------------
-estrutura do código
--------------------
+estrutura
+-----------
 │
 ├── tabuleiro 10x10
 ├── navios (4 navios no total)
