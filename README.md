@@ -1,2 +1,35 @@
-# batalha-naval
-Este programa implementa a primeira parte da construção de um jogo simples de Batalha Naval, utilizando matriz 10x10, dois navios de tamanho 3 representados por vetores, cada um posicionado no tabuleiro sem sobreposição
+
+📌 Tecnologias e Conceitos Utilizados
+
+Linguagem C
+
+Matrizes multidimensionais
+
+Loops aninhados
+
+Estruturas condicionais
+
+Representação de formas geométricas por lógica de coordenadas
+
+Manipulação de sobreposição de dados em matriz
+
+Validação de limites
+
+Organização e documentação de código
+
+-------------------
+estrutura do código
+-------------------
+│
+├── tabuleiro 10x10
+├── navios (4 navios no total)
+│   ├── horizontais/verticais
+│   └── diagonais
+│
+├── habilidades 5x5
+│   ├── cone
+│   ├── cruz
+│   └── octaedro
+│
+└── sobreposição no tabuleiro
+
